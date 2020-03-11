@@ -1,0 +1,11 @@
+Source: andrewgdotcom-keyring
+Maintainer: Andrew Gallagher <andrewg@andrewg.com>
+Section: main
+Priority: optional
+Standards-Version: 4.0.0
+Build-Depends: debhelper (>= 10)
+
+Package: andrewgdotcom-keyring
+Architecture: all
+Depends: 
+Description: andrewgdotcom's code-signing keyring
