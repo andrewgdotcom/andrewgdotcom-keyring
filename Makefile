@@ -3,7 +3,7 @@ APTPREFIX = $(DESTDIR)/etc/apt/trusted.gpg.d
 all:
 
 clean:
-	rm andrewg-codesign.pub
+	rm andrewg-codesign.pub || true
 
 $(APTPREFIX) :
 	mkdir -p $@
