@@ -1,0 +1,11 @@
+andrewgdotcom-keyring (2020.03.12) andrewg-test; urgency=medium
+
+  * Use ascii-armored keyring
+
+ -- Andrew Gallagher <andrewg@andrewg.com>  Thu, 12 Mar 2020 10:20:04 +0000
+
+andrewgdotcom-keyring (2020.03.11) andrewg-test; urgency=medium
+
+  * Initial release.
+
+ -- Andrew Gallagher <andrewg@andrewg.com>  Wed, 11 Mar 2020 16:56:21 +0000
