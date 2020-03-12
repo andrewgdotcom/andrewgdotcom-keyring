@@ -1,3 +1,9 @@
+andrewgdotcom-keyring (2020.03.12-2) andrewg-test; urgency=medium
+
+  * Extended expiry
+
+ -- Andrew Gallagher <andrewg@andrewg.com>  Thu, 12 Mar 2020 11:51:36 +0000
+
 andrewgdotcom-keyring (2020.03.12-1) andrewg-test; urgency=medium
 
   * Fix build errors
